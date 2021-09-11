@@ -16,10 +16,10 @@
 3)its check the current price of that bitoin and matches to the alert price entered by us and if it is less it again send the request to the given api every 120 secs for checking
   the price
   
-4) while checking the price if it is less it also print the current price with the image of that crypto currency along with the name in our console
+4)while checking the price if it is less it also print the current price with the image of that crypto currency along with the name in our console
 
 5)As soon  as the price is equal to the alert price entered by us it send the mail to the sender mail address provided by us from our mail address.
 
-6) we will also get the message in our console with the crypto image and name and message.
+6)we will also get the message in our console with the crypto image and name and message.
 
 
